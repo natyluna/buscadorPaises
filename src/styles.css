@@ -1,1 +1,16 @@
 /* You can add global styles to this file, and also import other style files */
+.small-flag {
+  width: 50px;
+}
+.mr-1{
+  margin-right: 5px;
+}
+
+.fondo{
+  background-color: #eff8f8;
+
+}
+h2{
+  color: #119da4;
+  text-transform: uppercase;
+}
